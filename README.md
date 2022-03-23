@@ -7,7 +7,6 @@ The goal of this project was to get cross country data to graph. I did this by u
 
 The data is very jumbled, but you can still tell what years Anthony Camerieri ran for us. But to look further into the data, here is varsity for each race, for every year.
 
-**Boys data**
 ![image](https://user-images.githubusercontent.com/62317727/159601587-b0250866-1262-459f-9d6a-b569c7749c9d.png)
 ![image](https://user-images.githubusercontent.com/62317727/159601604-4de8d4ab-47b8-411b-9167-029674c13d5f.png)
 ![image](https://user-images.githubusercontent.com/62317727/159601615-45926071-826c-4253-bba8-c82b3fb040af.png)
@@ -19,4 +18,18 @@ The data is very jumbled, but you can still tell what years Anthony Camerieri ra
 ![image](https://user-images.githubusercontent.com/62317727/159601725-fc16ebce-1fd9-4563-8533-1663864ec571.png)
 ![image](https://user-images.githubusercontent.com/62317727/159601737-eaeb3d53-d490-466f-a7d2-1df63077663c.png)
 ![image](https://user-images.githubusercontent.com/62317727/159601752-ee6277e4-4d35-4969-bca3-e3c6c5ce1a21.png)
+
+![image](https://user-images.githubusercontent.com/62317727/159602074-2a2e5964-0cda-42a2-a09c-cc5fb45c0508.png)
+![image](https://user-images.githubusercontent.com/62317727/159602086-7cb80a96-eda0-4a04-840e-8a6a7002542d.png)
+![image](https://user-images.githubusercontent.com/62317727/159602094-6f1b2db9-90dc-49a8-878f-2697f72e9931.png)
+![image](https://user-images.githubusercontent.com/62317727/159602101-05932c55-7eac-430f-a691-659c1986e533.png)
+![image](https://user-images.githubusercontent.com/62317727/159602106-9f3933e6-fe62-43b4-9f25-9175ee1deb87.png)
+![image](https://user-images.githubusercontent.com/62317727/159602113-1515f22a-3b52-4f71-890e-616f3f82d509.png)
+![image](https://user-images.githubusercontent.com/62317727/159602123-cb1cf542-9b2d-45c4-ae52-2231d5408164.png)
+![image](https://user-images.githubusercontent.com/62317727/159602130-4fbf17eb-d957-490a-ab9a-5a0f30035f5f.png)
+![image](https://user-images.githubusercontent.com/62317727/159602136-b419e504-5c89-4756-959b-d7a92d0d0968.png)
+![image](https://user-images.githubusercontent.com/62317727/159602148-a880f58a-7284-4044-b2bf-61f236e5d863.png)
+![image](https://user-images.githubusercontent.com/62317727/159602179-8597a075-6c1a-441b-84fa-3ad04e5650e6.png)
+
+
 
