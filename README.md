@@ -1,4 +1,3 @@
-# intro
 The goal of this project was to get cross country data to graph. I did this by using python and selenium to build a webscraper which scraped milesplit of  all the cross country times from Brecksville it could find. The data was then imported into a csv where then i used pandas and matplotlib to graph the data I collected. The data goes back to 2011 as to that was as far back milesplit went. This is what all the data looks like graphed:
 
 ![image](https://user-images.githubusercontent.com/62317727/159599972-c0b8aba4-5a14-44bf-a229-90682bd5d594.png)
@@ -31,5 +30,6 @@ The data is very jumbled, but you can still tell what years Anthony Camerieri ra
 ![image](https://user-images.githubusercontent.com/62317727/159602503-9b2e78c4-0882-40b9-8bc8-728ff0cfe276.png)
 ![image](https://user-images.githubusercontent.com/62317727/159602518-1b5aed4a-19b7-4810-8712-253ee0750432.png)
 
+Going into this I thought you would be able to tell if we peak too early, but that does not seem to be the case. Also you can clearly tell which meet in woodridge by the times 
 
 
