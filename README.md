@@ -23,7 +23,6 @@ The data is very jumbled, but you can still tell what years Anthony Camerieri ra
 ![image](https://user-images.githubusercontent.com/62317727/159602428-bec91885-66d4-4ca8-b9e8-3efba8ed939e.png)
 ![image](https://user-images.githubusercontent.com/62317727/159602435-941c60a5-6740-46e1-9250-490cecf878a1.png)
 ![image](https://user-images.githubusercontent.com/62317727/159602442-01392ffc-805d-439a-a9e5-25099e047d40.png)
-![image](https://user-images.githubusercontent.com/62317727/159602447-5d1cd679-e204-476a-bacd-a458c3f367ec.png)
 ![image](https://user-images.githubusercontent.com/62317727/159602462-edaff15a-b97c-4b63-bc3a-c321f02a8577.png)
 ![image](https://user-images.githubusercontent.com/62317727/159602471-ca16b08d-227d-43a5-b92b-0cc3b4b69480.png)
 ![image](https://user-images.githubusercontent.com/62317727/159602478-8014ce01-7a54-46c0-bffb-68efe3aa9771.png)
