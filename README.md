@@ -29,7 +29,6 @@ The data is very jumbled, but you can still tell what years Anthony Camerieri ra
 ![image](https://user-images.githubusercontent.com/62317727/159602130-4fbf17eb-d957-490a-ab9a-5a0f30035f5f.png)
 ![image](https://user-images.githubusercontent.com/62317727/159602136-b419e504-5c89-4756-959b-d7a92d0d0968.png)
 ![image](https://user-images.githubusercontent.com/62317727/159602148-a880f58a-7284-4044-b2bf-61f236e5d863.png)
-![image](https://user-images.githubusercontent.com/62317727/159602179-8597a075-6c1a-441b-84fa-3ad04e5650e6.png)
 
 
 
