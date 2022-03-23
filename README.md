@@ -6,7 +6,8 @@ The goal of this project was to get cross country data to graph. I did this by u
 ![image](https://user-images.githubusercontent.com/62317727/159599923-cd48e06e-2646-4721-b198-19cf62e25013.png)
 
 The data is very jumbled, but you can still tell what years Anthony Camerieri ran for us. But to look further into the data, here is varsity for each race, for every year.
-                                                                                  **Boys data**
+
+**Boys data**
 ![image](https://user-images.githubusercontent.com/62317727/159601587-b0250866-1262-459f-9d6a-b569c7749c9d.png)
 ![image](https://user-images.githubusercontent.com/62317727/159601604-4de8d4ab-47b8-411b-9167-029674c13d5f.png)
 ![image](https://user-images.githubusercontent.com/62317727/159601615-45926071-826c-4253-bba8-c82b3fb040af.png)
