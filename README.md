@@ -19,16 +19,18 @@ The data is very jumbled, but you can still tell what years Anthony Camerieri ra
 ![image](https://user-images.githubusercontent.com/62317727/159601737-eaeb3d53-d490-466f-a7d2-1df63077663c.png)
 ![image](https://user-images.githubusercontent.com/62317727/159601752-ee6277e4-4d35-4969-bca3-e3c6c5ce1a21.png)
 
-![image](https://user-images.githubusercontent.com/62317727/159602074-2a2e5964-0cda-42a2-a09c-cc5fb45c0508.png)
-![image](https://user-images.githubusercontent.com/62317727/159602086-7cb80a96-eda0-4a04-840e-8a6a7002542d.png)
-![image](https://user-images.githubusercontent.com/62317727/159602094-6f1b2db9-90dc-49a8-878f-2697f72e9931.png)
-![image](https://user-images.githubusercontent.com/62317727/159602101-05932c55-7eac-430f-a691-659c1986e533.png)
-![image](https://user-images.githubusercontent.com/62317727/159602106-9f3933e6-fe62-43b4-9f25-9175ee1deb87.png)
-![image](https://user-images.githubusercontent.com/62317727/159602113-1515f22a-3b52-4f71-890e-616f3f82d509.png)
-![image](https://user-images.githubusercontent.com/62317727/159602123-cb1cf542-9b2d-45c4-ae52-2231d5408164.png)
-![image](https://user-images.githubusercontent.com/62317727/159602130-4fbf17eb-d957-490a-ab9a-5a0f30035f5f.png)
-![image](https://user-images.githubusercontent.com/62317727/159602136-b419e504-5c89-4756-959b-d7a92d0d0968.png)
-![image](https://user-images.githubusercontent.com/62317727/159602148-a880f58a-7284-4044-b2bf-61f236e5d863.png)
+![image](https://user-images.githubusercontent.com/62317727/159602421-c6f4206d-3de6-410e-869e-f63a7e0dc08e.png)
+![image](https://user-images.githubusercontent.com/62317727/159602428-bec91885-66d4-4ca8-b9e8-3efba8ed939e.png)
+![image](https://user-images.githubusercontent.com/62317727/159602435-941c60a5-6740-46e1-9250-490cecf878a1.png)
+![image](https://user-images.githubusercontent.com/62317727/159602442-01392ffc-805d-439a-a9e5-25099e047d40.png)
+![image](https://user-images.githubusercontent.com/62317727/159602447-5d1cd679-e204-476a-bacd-a458c3f367ec.png)
+![image](https://user-images.githubusercontent.com/62317727/159602462-edaff15a-b97c-4b63-bc3a-c321f02a8577.png)
+![image](https://user-images.githubusercontent.com/62317727/159602471-ca16b08d-227d-43a5-b92b-0cc3b4b69480.png)
+![image](https://user-images.githubusercontent.com/62317727/159602478-8014ce01-7a54-46c0-bffb-68efe3aa9771.png)
+![image](https://user-images.githubusercontent.com/62317727/159602485-4f52e53c-ac79-4b72-a11d-9d910842d40e.png)
+![image](https://user-images.githubusercontent.com/62317727/159602494-b0f05bd6-364f-469a-9375-14119e96f9dd.png)
+![image](https://user-images.githubusercontent.com/62317727/159602503-9b2e78c4-0882-40b9-8bc8-728ff0cfe276.png)
+![image](https://user-images.githubusercontent.com/62317727/159602518-1b5aed4a-19b7-4810-8712-253ee0750432.png)
 
 
 
