@@ -34,5 +34,7 @@ Going into this I thought you would be able to tell if we peak too early, but it
 ![image](https://user-images.githubusercontent.com/62317727/160257028-572cdfcb-6b84-454a-8ebd-98f63e8d67ab.png)
 ![image](https://user-images.githubusercontent.com/62317727/160257035-170971df-fa80-4acc-982c-56cc8f675b59.png)
 
+As you can see most years do seem to follow a general trend althrough it is somewhat hard to tell.
+
 
 
