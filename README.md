@@ -30,6 +30,9 @@ The data is very jumbled, but you can still tell generally which years we did be
 ![image](https://user-images.githubusercontent.com/62317727/159602503-9b2e78c4-0882-40b9-8bc8-728ff0cfe276.png)
 ![image](https://user-images.githubusercontent.com/62317727/159602518-1b5aed4a-19b7-4810-8712-253ee0750432.png)
 
-Going into this I thought you would be able to tell if we peak too early, but that does not seem to be the case. Also you can clearly tell which meet in woodridge by the times 
+Going into this I thought you would be able to tell if we peak too early, but it looks varied year to year and there is no general trend. This does not take into account how hard the courses are through which would affect that. Also you can clearly tell which meet in woodridge by the times. Now here is all the averages overlapped:
+![image](https://user-images.githubusercontent.com/62317727/160257028-572cdfcb-6b84-454a-8ebd-98f63e8d67ab.png)
+![image](https://user-images.githubusercontent.com/62317727/160257035-170971df-fa80-4acc-982c-56cc8f675b59.png)
+
 
 
