@@ -1,35 +1,36 @@
 # team data
 The goal of this project was to get cross country data to graph. I did this by using python and selenium to build a webscraper which scraped milesplit of  all the cross country times from Brecksville it could find. The data was then imported into a csv where then i used pandas and matplotlib to graph the data I collected. The data goes back to 2011 as to that was as far back milesplit went. This is what all the data looks like graphed:
 
-![image](https://user-images.githubusercontent.com/62317727/159599972-c0b8aba4-5a14-44bf-a229-90682bd5d594.png)
+![image](https://user-images.githubusercontent.com/62317727/160260031-aa2587ba-6b27-46d9-b98f-7967ac63f918.png)
 
-![image](https://user-images.githubusercontent.com/62317727/159599923-cd48e06e-2646-4721-b198-19cf62e25013.png)
+![image](https://user-images.githubusercontent.com/62317727/160259753-56ae8925-4d29-4bac-b266-3562120afd08.png)
 
 The data is very jumbled, but you can still tell generally which years we did better. But to look further into the data, here is varsity for each race, for every year.
 
-![image](https://user-images.githubusercontent.com/62317727/159601587-b0250866-1262-459f-9d6a-b569c7749c9d.png)
-![image](https://user-images.githubusercontent.com/62317727/159601604-4de8d4ab-47b8-411b-9167-029674c13d5f.png)
-![image](https://user-images.githubusercontent.com/62317727/159601615-45926071-826c-4253-bba8-c82b3fb040af.png)
-![image](https://user-images.githubusercontent.com/62317727/159601629-7d0d8458-967e-4ec4-aff4-374fd5a788d3.png)
-![image](https://user-images.githubusercontent.com/62317727/159601661-937e83d9-6376-4736-8c5a-16d86ce7341f.png)
-![image](https://user-images.githubusercontent.com/62317727/159601687-402f0932-a2c1-43f2-a595-6e22867fc463.png)
-![image](https://user-images.githubusercontent.com/62317727/159601706-97d07f1f-be07-4617-b104-12a86bb9240f.png)
-![image](https://user-images.githubusercontent.com/62317727/159601715-2a58c5d8-1f48-45c3-be9e-8c755383b82f.png)
-![image](https://user-images.githubusercontent.com/62317727/159601725-fc16ebce-1fd9-4563-8533-1663864ec571.png)
-![image](https://user-images.githubusercontent.com/62317727/159601737-eaeb3d53-d490-466f-a7d2-1df63077663c.png)
-![image](https://user-images.githubusercontent.com/62317727/159601752-ee6277e4-4d35-4969-bca3-e3c6c5ce1a21.png)
+![image](https://user-images.githubusercontent.com/62317727/160259829-f33c0c4e-a1d4-4483-a13c-1b8947d7c2de.png)
+![image](https://user-images.githubusercontent.com/62317727/160259836-55968c43-fb20-4486-a7c3-9c62920b52c1.png)
+![image](https://user-images.githubusercontent.com/62317727/160259842-fa4dc7f1-c7bf-4075-b848-4d7d937e38cf.png)
+![image](https://user-images.githubusercontent.com/62317727/160259844-5006cc4d-3960-445e-98a8-a2ac746fbfd6.png)
+![image](https://user-images.githubusercontent.com/62317727/160259856-d0994701-f35e-4b5d-ab5c-99575ad31174.png)
+![image](https://user-images.githubusercontent.com/62317727/160259908-edd560a9-df79-4370-a8e5-f2c283e817e4.png)
+![image](https://user-images.githubusercontent.com/62317727/160259910-2ad85de3-090d-41db-98d4-a151962e2f99.png)
+![image](https://user-images.githubusercontent.com/62317727/160259912-340945cd-638a-4c47-b768-5752b6d2c85c.png)
+![image](https://user-images.githubusercontent.com/62317727/160259916-cda1e7ac-859a-402d-a3e1-313a8282fe36.png)
+![image](https://user-images.githubusercontent.com/62317727/160259921-13d73725-6b88-4e2e-b914-52b29ab0c7d0.png)
+![image](https://user-images.githubusercontent.com/62317727/160259925-1a07d40b-4947-4668-ab30-e0adb309baea.png)
 
-![image](https://user-images.githubusercontent.com/62317727/159602421-c6f4206d-3de6-410e-869e-f63a7e0dc08e.png)
-![image](https://user-images.githubusercontent.com/62317727/159602428-bec91885-66d4-4ca8-b9e8-3efba8ed939e.png)
-![image](https://user-images.githubusercontent.com/62317727/159602435-941c60a5-6740-46e1-9250-490cecf878a1.png)
-![image](https://user-images.githubusercontent.com/62317727/159602442-01392ffc-805d-439a-a9e5-25099e047d40.png)
-![image](https://user-images.githubusercontent.com/62317727/159602462-edaff15a-b97c-4b63-bc3a-c321f02a8577.png)
-![image](https://user-images.githubusercontent.com/62317727/159602471-ca16b08d-227d-43a5-b92b-0cc3b4b69480.png)
-![image](https://user-images.githubusercontent.com/62317727/159602478-8014ce01-7a54-46c0-bffb-68efe3aa9771.png)
-![image](https://user-images.githubusercontent.com/62317727/159602485-4f52e53c-ac79-4b72-a11d-9d910842d40e.png)
-![image](https://user-images.githubusercontent.com/62317727/159602494-b0f05bd6-364f-469a-9375-14119e96f9dd.png)
-![image](https://user-images.githubusercontent.com/62317727/159602503-9b2e78c4-0882-40b9-8bc8-728ff0cfe276.png)
-![image](https://user-images.githubusercontent.com/62317727/159602518-1b5aed4a-19b7-4810-8712-253ee0750432.png)
+![image](https://user-images.githubusercontent.com/62317727/160259935-3fb965f2-4d1f-4777-884c-874277bd9bb1.png)
+![image](https://user-images.githubusercontent.com/62317727/160259937-9a91fd89-25c2-4c19-a759-b548e330912e.png)
+![image](https://user-images.githubusercontent.com/62317727/160259942-8115a501-8534-42b0-a939-51ad75058e53.png)
+![image](https://user-images.githubusercontent.com/62317727/160259945-d088dd69-e986-493a-8342-c9361fa32a80.png)
+![image](https://user-images.githubusercontent.com/62317727/160259946-ca5aaf80-e2ac-427a-92f3-f73948129e26.png)
+![image](https://user-images.githubusercontent.com/62317727/160259947-5e25f30b-f20c-48eb-af1c-56975a2e7000.png)
+![image](https://user-images.githubusercontent.com/62317727/160259951-6713364e-5b24-4fed-bdfb-226d9145f4df.png)
+![image](https://user-images.githubusercontent.com/62317727/160259952-a48b80d6-ccc8-4f51-9425-9418d7eabcb0.png)
+![image](https://user-images.githubusercontent.com/62317727/160259953-740057db-5cd5-40e5-9d3e-ee65498df5e0.png)
+![image](https://user-images.githubusercontent.com/62317727/160259955-838bb306-1a2a-4c7c-abba-2a507e03bb8c.png)
+![image](https://user-images.githubusercontent.com/62317727/160259958-10358b5b-4f8d-4cd9-80fa-0236721d217f.png)
+
 
 Going into this I thought you would be able to tell if we peak too early, but it looks varied year to year and there is no general trend. This does not take into account how hard the courses are through which would affect that. Also you can clearly tell which meet in woodridge by the times. Now here is all the averages overlapped:
 ![image](https://user-images.githubusercontent.com/62317727/160257028-572cdfcb-6b84-454a-8ebd-98f63e8d67ab.png)
