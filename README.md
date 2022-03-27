@@ -44,7 +44,14 @@ As you can see most years do seem to follow a general trend althrough it is some
 [B](#b)
 [C](#c)
 [D](#d)
-[T-Z](#t-z)
+[E](#e)
+[F-I](f-i)
+[E](#e)
+[E](#e)
+[E](#e)
+[E](#e)
+[E](#e)
+[E](#e)
 
 #### A
 ![image](https://user-images.githubusercontent.com/62317727/160301172-73d9552c-9dc6-4a7b-b2a8-15a7d00ce678.png)
@@ -121,7 +128,41 @@ As you can see most years do seem to follow a general trend althrough it is some
 #### D
 ![image](https://user-images.githubusercontent.com/62317727/160302189-ebef5e3c-117e-48b4-9b38-0ecf2ddefec9.png)
 ![image](https://user-images.githubusercontent.com/62317727/160302190-e99455ee-3a52-4c3b-a1b5-fd700876d307.png)
+![image](https://user-images.githubusercontent.com/62317727/160302406-c7c1039f-7d16-4950-a2fa-6f896a207362.png)
+![image](https://user-images.githubusercontent.com/62317727/160302410-c2c58143-3575-4df0-9d33-15f39a53fb4a.png)
+![image](https://user-images.githubusercontent.com/62317727/160302417-6fc89bc5-3ec5-4e57-b7fe-59a529c348f2.png)
+![image](https://user-images.githubusercontent.com/62317727/160302429-171b0a28-a787-4db0-987c-9683112d345e.png)
+![image](https://user-images.githubusercontent.com/62317727/160302433-fb802a4e-8a66-40f6-82e5-eaab89a78e0d.png)
+![image](https://user-images.githubusercontent.com/62317727/160302439-9e3035f0-722a-4a11-9eea-6b3d026e716c.png)
+![image](https://user-images.githubusercontent.com/62317727/160302443-a20d9c3a-bb1f-406e-b02f-6914f874d95b.png)
+![image](https://user-images.githubusercontent.com/62317727/160302447-96a2f98e-d2df-446b-974b-c25d183885fd.png)
+![image](https://user-images.githubusercontent.com/62317727/160302451-b575a766-ef36-40a5-bc90-0771b940622f.png)
+![image](https://user-images.githubusercontent.com/62317727/160302453-4220ab64-2118-4d88-ad06-db3f91e1ea62.png)
+![image](https://user-images.githubusercontent.com/62317727/160302457-db98a6e4-a30a-4706-8ec5-5ff7b1f440f2.png)
 
+#### E
+![image](https://user-images.githubusercontent.com/62317727/160302459-87954a40-5909-4ff4-9f4e-9a4e25fc94f9.png)
+![image](https://user-images.githubusercontent.com/62317727/160302487-e7a54bbb-b2f8-48be-9383-6df67ab1cca6.png)
+![image](https://user-images.githubusercontent.com/62317727/160302488-55d1b7f8-6b0a-4480-bd39-c9229074485e.png)
+![image](https://user-images.githubusercontent.com/62317727/160302491-f208de3a-b860-40eb-89e9-7318c175d3a4.png)
+![image](https://user-images.githubusercontent.com/62317727/160302495-557638a1-6023-4f61-8d89-f9c697fde69b.png)
+![image](https://user-images.githubusercontent.com/62317727/160302498-686842ff-45a0-4175-8c6a-031bd726df54.png)
+![image](https://user-images.githubusercontent.com/62317727/160302501-23c99984-8ee1-4ce2-8ec9-70bd89dc35da.png)
+![image](https://user-images.githubusercontent.com/62317727/160302504-c6386713-4fa1-4b38-b662-98a86a21226e.png)
+![image](https://user-images.githubusercontent.com/62317727/160302507-25cc824f-45a4-446e-b45d-56d3acd72fe7.png)
+![image](https://user-images.githubusercontent.com/62317727/160302509-edee1e3c-2aef-49f8-9796-ea19cfcb1f1f.png)
+![image](https://user-images.githubusercontent.com/62317727/160302547-4213a8ff-197f-4cba-8a41-4cd207ee8f1a.png)
+![image](https://user-images.githubusercontent.com/62317727/160302553-98a10412-a199-4bc5-8127-0fb504cc4c49.png)
+![image](https://user-images.githubusercontent.com/62317727/160302554-93ca9a61-e8e3-4979-a196-810884997cfd.png)
+![image](https://user-images.githubusercontent.com/62317727/160302561-59a88113-893a-4446-857f-001fe9cff3c4.png)
+![image](https://user-images.githubusercontent.com/62317727/160302569-82f87aa4-d68f-4583-81d8-7e67ad101b89.png)
+![image](https://user-images.githubusercontent.com/62317727/160302572-7f0b9c2b-6c92-4cdd-a56a-94353848b1ec.png)
+![image](https://user-images.githubusercontent.com/62317727/160302575-0ad647f1-22f0-4f82-999d-cc9156cda1ee.png)
+![image](https://user-images.githubusercontent.com/62317727/160302579-2da75e41-e437-4b86-bb63-04ab58cbc18e.png)
+![image](https://user-images.githubusercontent.com/62317727/160302582-7e200a66-e899-4fab-b103-087ecc5f58a0.png)
+
+#### F-I
+![image](https://user-images.githubusercontent.com/62317727/160302633-74c45fb9-8bc0-4501-881a-3db19191ff04.png)
 
 #### J-M
 #### N-S
