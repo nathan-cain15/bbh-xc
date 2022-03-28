@@ -53,8 +53,8 @@ As you can see most years do seem to follow a general trend althrough it is some
 [N](#n)
 [O-R](#o-r)
 [S](#s)
-[T](#t)
-[O](#o)
+[T-V](#t-v)
+[W-Z](#w-z)
 
 #### A
 ![image](https://user-images.githubusercontent.com/62317727/160301172-73d9552c-9dc6-4a7b-b2a8-15a7d00ce678.png)
@@ -364,7 +364,7 @@ As you can see most years do seem to follow a general trend althrough it is some
 ![image](https://user-images.githubusercontent.com/62317727/160307804-b09d483b-0b3f-4c17-b962-ed74525e173d.png)
 ![image](https://user-images.githubusercontent.com/62317727/160307807-703729a9-0c31-41d3-a369-9385eead624a.png)
 
-#### T
+#### T-V
 ![image](https://user-images.githubusercontent.com/62317727/160307811-3c2efe34-3722-4848-8758-194923afb80d.png)
 ![image](https://user-images.githubusercontent.com/62317727/160307818-c49e6034-547c-49e0-ac47-ebad69c2177e.png)
 ![image](https://user-images.githubusercontent.com/62317727/160307821-318a2895-1faa-48da-866d-71f3475444af.png)
@@ -378,5 +378,18 @@ As you can see most years do seem to follow a general trend althrough it is some
 ![image](https://user-images.githubusercontent.com/62317727/160308047-273921d1-a86a-4037-915f-c7ee7d52593a.png)
 ![image](https://user-images.githubusercontent.com/62317727/160308051-52d7858c-c45e-4421-a8ad-8d7a130a8c94.png)
 ![image](https://user-images.githubusercontent.com/62317727/160308057-ca5f3303-9043-44b9-a028-7851d12556e6.png)
+![image](https://user-images.githubusercontent.com/62317727/160312016-da06f956-1ddf-4c23-9ebe-c432ea290d10.png)
+![image](https://user-images.githubusercontent.com/62317727/160312020-b096deb0-5f7e-4a23-8ca2-63fa323b8171.png)
+
+#### W-Z
+![image](https://user-images.githubusercontent.com/62317727/160312460-6228a465-2153-40d9-8d7b-c178b4af5f74.png)
+![image](https://user-images.githubusercontent.com/62317727/160312482-11d4d6a4-b85b-47d2-a654-cc1975b9bb6a.png)
+![image](https://user-images.githubusercontent.com/62317727/160312490-c2094ac8-9ae9-448e-967e-52e71c7993ed.png)
+![image](https://user-images.githubusercontent.com/62317727/160312498-7677865e-0cad-437a-8a37-c4eb99e91222.png)
+![image](https://user-images.githubusercontent.com/62317727/160312503-bd18ba13-0696-43f0-92e6-b89c7fd6c544.png)
+
+
+
+
 
 
