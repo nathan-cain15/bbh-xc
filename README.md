@@ -38,6 +38,9 @@ Going into this I thought you would be able to tell if we peak too early, but it
 
 As you can see most years do seem to follow a general trend althrough it is somewhat hard to tell.
 
+link to the code
+https://github.com/nathan-cain15/bbhhs-xc
+
 # individual data
 
 [A](#a)
