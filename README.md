@@ -1,5 +1,5 @@
 # team data
-The goal of this project was to visualize cross country data. I did this by using python and selenium to build a webscraper which scraped milesplit of  all the cross country times from Brecksville it could find. The data was then imported into a csv where then i used pandas and matplotlib to graph the data I collected. The data goes back to 2011. This is what all the data looks like graphed:
+The goal of this project was to visualize cross country data. I did this by using python and selenium to build a webscraper which scraped milesplit of  all the cross country times from Brecksville it could find. The data was then imported into a csv where then I used pandas and matplotlib to graph the data I collected. The data goes back to 2011. This is what all the data looks like graphed:
 
 ![image](https://user-images.githubusercontent.com/62317727/160260031-aa2587ba-6b27-46d9-b98f-7967ac63f918.png)
 
@@ -32,7 +32,7 @@ The data is very jumbled, but you can still tell generally which years we did be
 ![image](https://user-images.githubusercontent.com/62317727/160259958-10358b5b-4f8d-4cd9-80fa-0236721d217f.png)
 
 
-Going into this I thought you would be able to tell if we peak too early, but it looks varied year to year and there is no general trend. This does not take into account how hard the courses are through which would affect that. Also you can clearly tell which meet was woodridge by the times. Now here is all the averages overlapped:
+Going into this I thought you would be able to tell if we peak too early, but it looks varied year to year and there is no general trend. This does not take into account how hard the courses are through which would affect that. Now here is all the averages overlapped:
 ![image](https://user-images.githubusercontent.com/62317727/160257028-572cdfcb-6b84-454a-8ebd-98f63e8d67ab.png)
 ![image](https://user-images.githubusercontent.com/62317727/160257035-170971df-fa80-4acc-982c-56cc8f675b59.png)
 
